@@ -4,6 +4,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+  overflow-x: hidden;
 }
 
 .foreground-section {
@@ -13,6 +14,7 @@ body {
   grid-template-columns: 1fr;
   top: 20em;
   margin-left:-10px;
+  margin-right:-10px;
   width: 100%;
 
 }
