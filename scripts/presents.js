@@ -51,7 +51,7 @@ export const presents = [
   },
   {
     message: 'Give me your best life advice',
-    image: 'dog-suit.jpg'
+    image: 'images/dog-suit.jpg'
   },
   {
     message: 'Help me convince JB to finish his beer',
@@ -67,7 +67,7 @@ export const presents = [
   },
   {
     message: 'Tell me the stupidest shit you have done, but in Spanish',
-    image: 'dog-suit.jpg'
+    image: 'images/dog-suit.jpg'
   },
   {
     message: 'Take a look at my dog......... Compliment him',
@@ -83,16 +83,31 @@ export const presents = [
   },
   {
     message: 'Tell me a funny joke or story, if I laugh I have to finish my beer',
-    image: 'dog-suit.jpg'
+    image: 'images/dog-suit.jpg'
   },
   {
     message: 'Guess my nationality: guess wrong you finish your beer, guess right I finish mine ',
-    image: 'dog-suit.jpg'
+    image: 'images/dog-suit.jpg'
   },
   {
     message: "Guess which bar I have been kicked out of: guess wrong you finish your beer, guess right I finish mine (hint: it's in old town)",
-    image: 'dog-suit.jpg'
+    image: 'images/dog-suit.jpg'
   },
-  
+  {
+    message: `Last to finish the math problem finishes their beer: ${Math.round(Math.random()*100)}+${Math.round(Math.random()*100)}*${Math.round(Math.random()*100)}`,
+    image: 'images/dog-suit.jpg'
+  },
+  {
+    message: "WHO'S CALLING THAT SHIT? (dance) Who's callin' that shit? Who's callin' that shit? Who's callin' that shit? Who's callin' that shit?Is it Stacy? Is it Becky? Is it Keisha? Is it Ellie? Was it Dani? Is it PARTY? Where's the function? Send the addy ",
+    image: 'images/drake.jpg'
+  },
+  {
+    message: "Send my sister a nice voice message",
+    image: 'images/sister.jpg'
+  },
+  {
+    message: "We totally should not chug our beers right now......",
+    image: 'images/side-eye.jpg'
+  },
 
 ]
