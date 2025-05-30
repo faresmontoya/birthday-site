@@ -94,7 +94,7 @@ export const presents = [
     image: 'images/dog-suit.jpg'
   },
   {
-    message: `Last to finish the math problem finishes their beer: ${Math.round(Math.random()*100)}+${Math.round(Math.random()*100)}*${Math.round(Math.random()*100)}`,
+    message: `Last to finish the math problem finishes their beer: ${Math.round(Math.random()*100)}+${Math.round(Math.random()*10)}*${Math.round(Math.random()*100)}`,
     image: 'images/dog-suit.jpg'
   },
   {
