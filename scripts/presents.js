@@ -51,7 +51,7 @@ export const presents = [
   },
   {
     message: 'Give me your best life advice',
-    image: ''
+    image: 'dog-suit.jpg'
   },
   {
     message: 'Help me convince JB to finish his beer',
@@ -67,7 +67,7 @@ export const presents = [
   },
   {
     message: 'Tell me the stupidest shit you have done, but in Spanish',
-    image: ''
+    image: 'dog-suit.jpg'
   },
   {
     message: 'Take a look at my dog......... Compliment him',
@@ -83,10 +83,16 @@ export const presents = [
   },
   {
     message: 'Tell me a funny joke or story, if I laugh I have to finish my beer',
-    image: ''
+    image: 'dog-suit.jpg'
   },
   {
     message: 'Guess my nationality: guess wrong you finish your beer, guess right I finish mine ',
-    image: ''
+    image: 'dog-suit.jpg'
   },
+  {
+    message: "Guess which bar I have been kicked out of: guess wrong you finish your beer, guess right I finish mine (hint: it's in old town)",
+    image: 'dog-suit.jpg'
+  },
+  
+
 ]
