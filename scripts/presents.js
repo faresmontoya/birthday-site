@@ -8,10 +8,6 @@ export const presents = [
     image: 'images/kendrick.jpeg'
   },
   {
-    message: 'Web hosting is expensive, donate to support the cause',
-    image: 'images/venmo.jpg'
-  },
-  {
     message: "Let's split the G my G",
     image: 'images/guiness.jpg'
   },
@@ -74,7 +70,7 @@ export const presents = [
     image: 'images/ovy.JPG'
   },
   {
-    message: "Let's go find my brother and convince him to finish his beer (say 'CULO SI NO' if he refuses)",
+    message: "Let's send my brother a voice message saying something borderline (or explicitly) sus",
     image: 'images/brother.JPG'
   },
   {
@@ -108,6 +104,26 @@ export const presents = [
   {
     message: "We totally should not chug our beers right now......",
     image: 'images/side-eye.jpg'
+  },
+  {
+    message: "We need to chug our beers in order to FREE HORMUZ!!!! HURRY!!!!",
+    image: 'images/hormuz.png'
+  },
+  {
+    message: "TRIVIA: The 2026 World Cup will be held in North America this year, who was the champion last year? Chug if you get it wrong",
+    image: 'images/monkey-think.jpg'
+  },
+  {
+    message: "TRIVIA: The 2026 World Cup will be held in North America this year, who hosted last year? Chug if you get it wrong",
+    image: 'images/monkey-think.jpg'
+  },
+  {
+    message: "On three, say a number from 1-10, if we say the same one, we chug",
+    image: 'images/sus-cat.jpg'
+  },
+  {
+    message: "Tell me your prediction on when AI will take over the world",
+    image: 'images/monkey-think.jpg'
   },
 
 ]
